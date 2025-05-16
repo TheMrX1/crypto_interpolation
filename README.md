@@ -2,15 +2,15 @@
 
 mac:
 (в терминале)
-`cd`
-`cd Downloads`
-`git clone https://github.com/TheMrX1/crypto_interpolation/`
-`cd crypto_interpolation/`
-`python3 main.py`
+1) `cd`
+2) `cd Downloads`
+3) `git clone https://github.com/TheMrX1/crypto_interpolation/`
+4) `cd crypto_interpolation/`
+5) `python3 main.py`
 
 windows (не тестировал):
 (Win + R)
-`cd Downloads`
-`git clone https://github.com/TheMrX1/crypto_interpolation/`
-`cd crypto_interpolation/`
-`python3 main.py`
+1) `cd Downloads`
+2) `git clone https://github.com/TheMrX1/crypto_interpolation/`
+3) `cd crypto_interpolation/`
+4) `python3 main.py`
